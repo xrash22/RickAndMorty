@@ -1,0 +1,1 @@
+export { RickAndMortyService } from './RickAndMortyService'
